@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfestdc-01-client-side-solution",
+    "id": "7c319ac5-6b53-48aa-9ff9-263ae8ed9969",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfestdc-01.sppkg"
+  }
+}
